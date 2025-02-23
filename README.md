@@ -16,7 +16,7 @@ I wanted to learn and share how to:
 
 ## How to use it
 1. Install Terraform and Kubernetes on your computer.
-2. Clone this project from GitHub: https://github.com/VishalGawale/Cloud-Native-Infrastructure-Microservices-Automation-with-Terraform-and-Kubernetes.git
+2. Clone this project from GitHub: https://github.com/VishalGawale/CloudInfra-Auto
 
 3. Run Terraform to build the infrastructure:
 terraform init
